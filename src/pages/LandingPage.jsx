@@ -1,5 +1,4 @@
 import { bgImg, featureImg, heroImg, iMac, ipad, logoWhite, trade } from "@/assets";
-import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ArrowRight } from "lucide-react";
